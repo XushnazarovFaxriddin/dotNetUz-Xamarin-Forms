@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="dotNetUzbekistan.MainPage"
+             Title=".NET Uzbekistan">
+<ScrollView >
+    <StackLayout Margin="5">
+        
+        <Frame BackgroundColor="#8878FA"
+               Padding="24" CornerRadius="5">
+            <Image Source="https://gblobscdn.gitbook.com/spaces%2F-ML4YbrwilsjU6IyB7jd%2Favatar-1622701554998.png?alt=media" />
+        </Frame>
+        <Label Text=".NET Uzbekistan Community"
+               FontSize="26" HorizontalOptions="Center"
+               FontAttributes="Bold"
+               TextColor="Black"/>
+        <Label Text="Microsoft .NET platformasi bo'yincha O'zbekistonda ilk dokumentatsiya!"
+               FontSize="16" Padding="30,0,30,0"/>
+        <Line Margin="15"/>
+        <Button x:Name="csharp"
+                Clicked="csharpButton"
+                          Text="C#"
+                BorderWidth="2"
+                BorderColor="#5F09EB"
+                TextColor="#5F09EB"
+                          FontAttributes="Bold"
+                          FontSize="26"
+                          CornerRadius="5"
+                          BackgroundColor="AliceBlue"/>
+        <Line Margin="15"/>
+        <Button x:Name="dotnet"
+                Clicked="dotnetButton"
+                          Text=".NET"
+                BorderWidth="2"
+                BorderColor="#5F09EB"
+                TextColor="#5F09EB"
+                          FontSize="26"
+                
+                          FontAttributes="Bold"
+                          CornerRadius="5"
+                          BackgroundColor="AliceBlue"/>
+        <Line Margin="15"/>
+        <Button x:Name="Loyihalar"
+                Clicked="LoyihalarOnClick"
+                Text="Loyihalar"
+                TextTransform="None"
+                BorderWidth="2"
+                BorderColor="#5F09EB"
+                TextColor="#5F09EB"
+                FontSize="26"
+                FontAttributes="Bold"
+                CornerRadius="5"
+                BackgroundColor="AliceBlue"/>
+        
+    </StackLayout>
+</ScrollView>
+</ContentPage>

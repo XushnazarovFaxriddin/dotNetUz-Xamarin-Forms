@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\user\.nuget\packages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-29722-00\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\user\.nuget\packages\runtime.win10-arm.microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\ARM\ilc\lib\Private\\"
+/ref:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\in"
+/ref:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\user\.nuget\packages\microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\csc"
+/out:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\intermediate\dotNetUzbekistan.UWP.Sg"
+"@C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\obj\ARM\Release\ilc\intermediate\dotNetUzbekistan.UWP.Sg\ComputedSerializationInput.txt"

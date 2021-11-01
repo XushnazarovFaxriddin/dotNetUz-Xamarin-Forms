@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\build.props
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\adb.props
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\dotNetUzbekistan.Android.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\res.flag
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\bin\Release\dotNetUzbekistan.Android.xml
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\R.cs.flag
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.Android\obj\Release\110\dotNetUzbekistan.Android.csproj.CoreCompileInputs.cache

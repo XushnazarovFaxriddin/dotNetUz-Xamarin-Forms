@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\dotNetUzbekistan\dotNetUzbekistan\dotNetUzbekistan.UWP\dotNetUzbekistan.UWP.csproj;x64
